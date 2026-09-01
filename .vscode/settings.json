@@ -4,6 +4,11 @@
             "path": "hospital",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
+        },
+        {
+            "path": "CALCULADORA DE ÍNDICE DE MASA CORPORAL (IMC).py",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
         }
     ]
 }
