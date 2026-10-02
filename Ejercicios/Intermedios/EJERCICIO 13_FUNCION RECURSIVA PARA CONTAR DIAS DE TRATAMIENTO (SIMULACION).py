@@ -1,5 +1,5 @@
 # ==========================================================
-# EJERCICIO 14: FUNCIÓN RECURSIVA PARA CONTAR DÍAS DE TRATAMIENTO (SIMULACIÓN)
+# EJERCICIO 13: FUNCIÓN RECURSIVA PARA CONTAR DÍAS DE TRATAMIENTO (SIMULACIÓN)
 # Nivel: Intermedio
 # Tema: Salud (tratamientos)
 #
